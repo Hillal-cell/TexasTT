@@ -202,12 +202,6 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
       </button>
       
         
-          {{-- <a href="/leadership" class="Mobile-overlay-folder-item">
-            Leadership
-          </a> --}}
-        
-      
-        
           <a href="tel:+1(469) 432-8835" class="Mobile-overlay-folder-item">
             Contact
           </a>
@@ -233,31 +227,6 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
             Support Group Meetings
           </a>
         
-      
-        
-          {{-- <a href="/id-documents-center" class="Mobile-overlay-folder-item">
-            ID Documents Center
-          </a> --}}
-        
-      
-        
-          {{-- <a href="/health-care-providers" class="Mobile-overlay-folder-item">
-            Health Care Provider List
-          </a> --}}
-        
-      
-        
-          {{-- <a href="/healthcare-ban-faq" class="Mobile-overlay-folder-item">
-            Trans Youth Healthcare Ban FAQ
-          </a> --}}
-        
-      
-        
-          {{-- <a href="/name-change-fund" class="Mobile-overlay-folder-item">
-            Trans Name Change Fund
-          </a> --}}
-        
-      
         
           <a href="/membership" class="Mobile-overlay-folder-item">
             Membership
@@ -265,7 +234,7 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
         
       
         
-          <a href="/crisis-hotlines" class="Mobile-overlay-folder-item">
+          <a href="tel:+1(469) 432-8835" class="Mobile-overlay-folder-item">
             Crisis Hotlines
           </a>
         
@@ -284,12 +253,6 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
       <button class="Mobile-overlay-folder-item Mobile-overlay-folder-item--toggle" data-controller-folder-toggle="take-action">
         <span class="Mobile-overlay-folder-item--toggle-label">Back</span>
       </button>
-      
-        
-          {{-- <a href="/advocate" class="Mobile-overlay-folder-item">
-            Legislative Toolbox + Trans Action Team
-          </a> --}}
-        
       
         
           <a href="/lege-tracker" class="Mobile-overlay-folder-item">
@@ -329,16 +292,8 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
               
               
                 
-                  <div class="Parallax-item" data-parallax-item data-parallax-id="5adeb118352f53013276d76c"></div>
+        <div class="Parallax-item" data-parallax-item data-parallax-id="5adeb118352f53013276d76c"></div>
                 
-              
-            
-              
-              
-                
-              
-            
-          
         
       </div>
     </div>
@@ -449,33 +404,12 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
 
 
 
-              {{-- To do get the resources form to be sent  --}}
-            <a href="/resources" class="Header-nav-folder-item" data-test="template-nav">Resource List</a>
+              
+            <a href="https://www.folxhealth.com/library/resources-for-trans-youth-and-parents-in-texas-the-us?gclid=CjwKCAjwzN-vBhAkEiwAYiO7oAoLyNbr4a38ByB8F1pikVn8tibNkG0rzG_8pn0gXDxCmaPZ5VZ7UhoCaUsQAvD_BwE" class="Header-nav-folder-item" data-test="template-nav">Resource List</a>
           
         
-          
-            {{-- <a href="/meetings" class="Header-nav-folder-item" data-test="template-nav">Support Group Meetings</a> --}}
-          
-        
-          
-            {{-- <a href="/id-documents-center" class="Header-nav-folder-item" data-test="template-nav">ID Documents Center</a>
-          
-        
-          
-            <a href="/health-care-providers" class="Header-nav-folder-item" data-test="template-nav">Health Care Provider List</a>
-          
-        
-          
-            <a href="/healthcare-ban-faq" class="Header-nav-folder-item" data-test="template-nav">Trans Youth Healthcare Ban FAQ</a>
-          
-        
-          
-            <a href="/name-change-fund" class="Header-nav-folder-item" data-test="template-nav">Trans Name Change Fund</a> --}}
-          
-        
-          
-            {{-- To do get the volunteer form to be sent --}}
-            <a href="/volunteer" class="Header-nav-folder-item" data-test="template-nav">Volunteer</a>
+            
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSctpVqWRxmHAalH7n0nrnTiKN6nSnrd0BvkplmPzB_-QP7HOg/viewform?vc=0&c=0&w=1&flr=0" class="Header-nav-folder-item" data-test="template-nav">Volunteer</a>
           
         
           
@@ -494,13 +428,6 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
       <span class="Header-nav-folder">
         
           
-            {{-- <a href="/advocate" class="Header-nav-folder-item" data-test="template-nav">Legislative Toolbox + Trans Action Team</a> --}}
-          
-        
-          
-            {{-- <a href="/lege-tracker" class="Header-nav-folder-item" data-test="template-nav">Lege Tracker 2024</a> --}}
-          
-        
           
             <a href="tel:+1(469) 432-8835" class="Header-nav-folder-item" data-test="template-nav">Talk to us </a>
           
@@ -561,7 +488,7 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
 
 <div class="sqs-html-content">
   <h2 style="white-space:pre-wrap;">Background:</h2>   
-  {{-- <h1 style="white-space:pre-wrap;">trans rights.</h1> --}}
+  
   <p class="" style="white-space:pre-wrap;"><em>The <span style="font-size: 5ex">Texas Trans Coalition</span>   is a pioneering organization in Texas, founded in 2019 with a mission to address the unique challenges faced by transgender individuals in the state. Led by members of the transgender community, the coalition focuses on advocating for trans rights, raising awareness about issues affecting trans people, and offering essential resources to support those in need. Their dedication to creating a more inclusive and supportive environment for trans individuals has made a significant impact in the Texas community.</em></p>
 
 
@@ -570,23 +497,6 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
 
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -648,24 +558,6 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_13_1510782370099_7197"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_2_1508183772410_6810"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
         </div>
         
@@ -681,9 +573,6 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
 
     
 
-  
-
-    
 
       <section id="sign-up-for-emails" class="Index-page"  data-collection-id="5b9ac54f8a922d0a319768f0" data-parallax-id="5b9ac54f8a922d0a319768f0" data-edit-main-image="Background">
         
@@ -742,7 +631,7 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
   <h3 style="white-space:pre-wrap;">Info</h3>
   <p>
     <a href="www.Texas trans coalition.org">Home</a>
-    <br><a href="https://www.Texas trans coalition.org/resources">Resources</a>
+    <br><a href="https://www.folxhealth.com/library/resources-for-trans-youth-and-parents-in-texas-the-us?gclid=CjwKCAjwzN-vBhAkEiwAYiO7oAoLyNbr4a38ByB8F1pikVn8tibNkG0rzG_8pn0gXDxCmaPZ5VZ7UhoCaUsQAvD_BwE">Resources</a>
     <br><a href="/meetings">Social Support</a><br>
     <a href="tel:+1(469) 432-8835" target="_blank">Crisis Hotlines</a></p>
 </div>
@@ -752,8 +641,8 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
 <div class="sqs-html-content">
   <h3 style="white-space:pre-wrap;">Action</h3><p>
 
-    {{-- To do change to the volunteer form  --}}
-<a href="/volunteer">Volunteer</a>
+    
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSctpVqWRxmHAalH7n0nrnTiKN6nSnrd0BvkplmPzB_-QP7HOg/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link">Volunteer</a>
     <br>
     {{-- To do paypal email for website  will be sent  --}}
     <a href="https://www.paypal.com/donate?business=YOUR_PAYPAL_EMAIL&item_name=Donation&currency_code=USD"  target="_blank">
@@ -788,8 +677,8 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
   </style>
   <nav class="sqs-svg-icon--list">
 
-    {{-- To do get the face book handle of the organisation --}}
-    <a href="http://www.facebook.com/" target="_blank" class="sqs-svg-icon--wrapper facebook" aria-label="Dylan Waguespack">
+    
+    <a href="https://www.facebook.com/profile.php?id=61557246700556" target="_blank" class="sqs-svg-icon--wrapper facebook" aria-label="Dylan Waguespack">
       <div>
         <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
           <use class="sqs-use--icon" xlink:href="#facebook-icon"></use>
@@ -826,11 +715,6 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
             
               
                 
-                
-                
-                
-              
-            
             
               <a href="tel:1(469)432-8835" rel="tel" class="Footer-business-info-item Footer-business-info-item--phone">+1(469)432-8835</a>
 
@@ -844,13 +728,7 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
           
             <div class="Footer-business-hours">
               <div class="Footer-business-hours-heading">Hours</div>
-              
-              
-              
-              
-              
-              
-              
+            
             </div>
           
         
