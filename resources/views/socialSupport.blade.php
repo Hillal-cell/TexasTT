@@ -230,7 +230,7 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
       <span class="Header-nav-folder">
         
           
-            {{-- <a href="/leadership" class="Header-nav-folder-item" data-test="template-nav">Leadership</a> --}}
+            
           
         
           
@@ -396,8 +396,8 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
     <a href="www.Texas trans coalition.org">Home</a>
     <br><a href="/resources">Resources</a>
 
-    {{-- To do link to the social support --}}
-    <br><a href="//social support">Social Support</a><br>
+    
+    <br><a href="/social support">Social Support</a><br>
     <a href="tel:+1(469) 432-8835" target="_blank">Crisis Hotlines</a></p>
 </div>
 
