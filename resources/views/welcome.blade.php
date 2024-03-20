@@ -155,7 +155,7 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
     
       
         
-          <button class="Mobile-overlay-nav-item Mobile-overlay-nav-item--folder" data-controller-folder-toggle="https://www.folxhealth.com/library/resources-for-trans-youth-and-parents-in-texas-the-us?gclid=CjwKCAjwzN-vBhAkEiwAYiO7oAoLyNbr4a38ByB8F1pikVn8tibNkG0rzG_8pn0gXDxCmaPZ5VZ7UhoCaUsQAvD_BwE">
+          <button class="Mobile-overlay-nav-item Mobile-overlay-nav-item--folder" data-controller-folder-toggle="/resources">
             <span class="Mobile-overlay-nav-item--folder-label">Resources</span>
           </button>
         
@@ -212,12 +212,12 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
 
   
     <div class="Mobile-overlay-folder" data-controller-folder="resources-1">
-      <button class="Mobile-overlay-folder-item Mobile-overlay-folder-item--toggle" data-controller-folder-toggle="https://www.folxhealth.com/library/resources-for-trans-youth-and-parents-in-texas-the-us?gclid=CjwKCAjwzN-vBhAkEiwAYiO7oAoLyNbr4a38ByB8F1pikVn8tibNkG0rzG_8pn0gXDxCmaPZ5VZ7UhoCaUsQAvD_BwE">
+      <button class="Mobile-overlay-folder-item Mobile-overlay-folder-item--toggle" data-controller-folder-toggle="/resources">
         <span class="Mobile-overlay-folder-item--toggle-label">Back</span>
       </button>
       
         
-          <a href="https://www.folxhealth.com/library/resources-for-trans-youth-and-parents-in-texas-the-us?gclid=CjwKCAjwzN-vBhAkEiwAYiO7oAoLyNbr4a38ByB8F1pikVn8tibNkG0rzG_8pn0gXDxCmaPZ5VZ7UhoCaUsQAvD_BwE" class="Mobile-overlay-folder-item">
+          <a href="/resources" class="Mobile-overlay-folder-item">
             Resource List
           </a>
         
@@ -397,7 +397,7 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
       </span>
     </span><span class="Header-nav-item Header-nav-item--folder">
 
-      <a href="https://www.folxhealth.com/library/resources-for-trans-youth-and-parents-in-texas-the-us?gclid=CjwKCAjwzN-vBhAkEiwAYiO7oAoLyNbr4a38ByB8F1pikVn8tibNkG0rzG_8pn0gXDxCmaPZ5VZ7UhoCaUsQAvD_BwE" class="Header-nav-folder-title" data-controller="HeaderNavFolderTouch">Resources</a>
+      <a href="/resources" class="Header-nav-folder-title" data-controller="HeaderNavFolderTouch">Resources</a>
 
       <span class="Header-nav-folder">
 
@@ -405,7 +405,7 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
 
 
               
-            <a href="https://www.folxhealth.com/library/resources-for-trans-youth-and-parents-in-texas-the-us?gclid=CjwKCAjwzN-vBhAkEiwAYiO7oAoLyNbr4a38ByB8F1pikVn8tibNkG0rzG_8pn0gXDxCmaPZ5VZ7UhoCaUsQAvD_BwE" class="Header-nav-folder-item" data-test="template-nav">Resource List</a>
+            <a href="/resources" class="Header-nav-folder-item" data-test="template-nav">Resource List</a>
           
         
             
@@ -631,7 +631,7 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
   <h3 style="white-space:pre-wrap;">Info</h3>
   <p>
     <a href="www.Texas trans coalition.org">Home</a>
-    <br><a href="https://www.folxhealth.com/library/resources-for-trans-youth-and-parents-in-texas-the-us?gclid=CjwKCAjwzN-vBhAkEiwAYiO7oAoLyNbr4a38ByB8F1pikVn8tibNkG0rzG_8pn0gXDxCmaPZ5VZ7UhoCaUsQAvD_BwE">Resources</a>
+    <br><a href="/resources">Resources</a>
 
     {{-- To do link to the social support --}}
     <br><a href="/meetings">Social Support</a><br>
