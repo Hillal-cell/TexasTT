@@ -651,7 +651,7 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
     Donate
 </a>
 <br>
-    <a href="tel:+256778499153">Talk to us</a>
+    <a href="tel:+1(469) 432-8835">Talk to us</a>
     <br>
     <a href="/contact">Through Email</a>
 
