@@ -155,7 +155,7 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
     
       
         
-          <button class="Mobile-overlay-nav-item Mobile-overlay-nav-item--folder" data-controller-folder-toggle="resources-1">
+          <button class="Mobile-overlay-nav-item Mobile-overlay-nav-item--folder" data-controller-folder-toggle="https://www.folxhealth.com/library/resources-for-trans-youth-and-parents-in-texas-the-us?gclid=CjwKCAjwzN-vBhAkEiwAYiO7oAoLyNbr4a38ByB8F1pikVn8tibNkG0rzG_8pn0gXDxCmaPZ5VZ7UhoCaUsQAvD_BwE">
             <span class="Mobile-overlay-nav-item--folder-label">Resources</span>
           </button>
         
@@ -203,7 +203,7 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
       
         
           <a href="tel:+1(469) 432-8835" class="Mobile-overlay-folder-item">
-            Contact
+            Talk to us
           </a>
         
       
@@ -212,12 +212,12 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
 
   
     <div class="Mobile-overlay-folder" data-controller-folder="resources-1">
-      <button class="Mobile-overlay-folder-item Mobile-overlay-folder-item--toggle" data-controller-folder-toggle="resources-1">
+      <button class="Mobile-overlay-folder-item Mobile-overlay-folder-item--toggle" data-controller-folder-toggle="https://www.folxhealth.com/library/resources-for-trans-youth-and-parents-in-texas-the-us?gclid=CjwKCAjwzN-vBhAkEiwAYiO7oAoLyNbr4a38ByB8F1pikVn8tibNkG0rzG_8pn0gXDxCmaPZ5VZ7UhoCaUsQAvD_BwE">
         <span class="Mobile-overlay-folder-item--toggle-label">Back</span>
       </button>
       
         
-          <a href="/resources" class="Mobile-overlay-folder-item">
+          <a href="https://www.folxhealth.com/library/resources-for-trans-youth-and-parents-in-texas-the-us?gclid=CjwKCAjwzN-vBhAkEiwAYiO7oAoLyNbr4a38ByB8F1pikVn8tibNkG0rzG_8pn0gXDxCmaPZ5VZ7UhoCaUsQAvD_BwE" class="Mobile-overlay-folder-item">
             Resource List
           </a>
         
@@ -228,8 +228,8 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
           </a>
         
         
-          <a href="/membership" class="Mobile-overlay-folder-item">
-            Membership
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSctpVqWRxmHAalH7n0nrnTiKN6nSnrd0BvkplmPzB_-QP7HOg/viewform?vc=0&c=0&w=1&flr=0" class="Mobile-overlay-folder-item">
+            Membership | Volunteer 
           </a>
         
       
@@ -255,9 +255,9 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
       </button>
       
         
-          <a href="/lege-tracker" class="Mobile-overlay-folder-item">
+          {{-- <a href="/lege-tracker" class="Mobile-overlay-folder-item">
             Lege Tracker 2024
-          </a>
+          </a> --}}
         
       
         
@@ -387,7 +387,7 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
       <span class="Header-nav-folder">
         
           
-            <a href="/leadership" class="Header-nav-folder-item" data-test="template-nav">Leadership</a>
+            {{-- <a href="/leadership" class="Header-nav-folder-item" data-test="template-nav">Leadership</a> --}}
           
         
           
@@ -397,7 +397,7 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
       </span>
     </span><span class="Header-nav-item Header-nav-item--folder">
 
-      <a href="/resources-1" class="Header-nav-folder-title" data-controller="HeaderNavFolderTouch">Resources</a>
+      <a href="https://www.folxhealth.com/library/resources-for-trans-youth-and-parents-in-texas-the-us?gclid=CjwKCAjwzN-vBhAkEiwAYiO7oAoLyNbr4a38ByB8F1pikVn8tibNkG0rzG_8pn0gXDxCmaPZ5VZ7UhoCaUsQAvD_BwE" class="Header-nav-folder-title" data-controller="HeaderNavFolderTouch">Resources</a>
 
       <span class="Header-nav-folder">
 
@@ -443,7 +443,7 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
               <a href="/" class="Header-branding" data-nc-element="branding" data-content-field="site-title">
                 
                   
-                    <img src="{{asset('newlogo.png')}}?format=1500w" alt="The Texas Trans Coalition" class="Header-branding-logo" />
+                <img src="{{asset('newlogo.png')}}?format=1500w" alt="The Texas Trans Coalition" class="Header-branding-logo" />
                   
                 
               </a>
@@ -455,8 +455,8 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
               <nav class="Header-nav Header-nav--secondary" data-nc-element="secondary-nav" data-content-field="navigation">
                 
   <div class="Header-nav-inner">
-    {{-- To do put the proper email to for the pay pal email --}}
-   <a href="https://www.paypal.com/donate?business=YOUR_PAYPAL_EMAIL&item_name=Donation&currency_code=USD" class="Mobile-overlay-nav-item" target="_blank">
+    
+   <a href="https://www.PayPal.me/TexasTranscoalition" class="Mobile-overlay-nav-item" target="_blank">
     <span class="rainbow-background">Donate</span>
 </a>
 
@@ -608,7 +608,7 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
             <div class="Index-nav-text"><span>Introduction</span></div>
           </a>
         
-          <a href="#sign-up-for-emails" class="Index-nav-item">
+          <a href="mailto:Texastranscoalition@gmail.com" class="Index-nav-item">
             <div class="Index-nav-indicator"></div>
             <div class="Index-nav-text"><span>Sign up for Emails</span></div>
           </a>
@@ -632,6 +632,8 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
   <p>
     <a href="www.Texas trans coalition.org">Home</a>
     <br><a href="https://www.folxhealth.com/library/resources-for-trans-youth-and-parents-in-texas-the-us?gclid=CjwKCAjwzN-vBhAkEiwAYiO7oAoLyNbr4a38ByB8F1pikVn8tibNkG0rzG_8pn0gXDxCmaPZ5VZ7UhoCaUsQAvD_BwE">Resources</a>
+
+    {{-- To do link to the social support --}}
     <br><a href="/meetings">Social Support</a><br>
     <a href="tel:+1(469) 432-8835" target="_blank">Crisis Hotlines</a></p>
 </div>
@@ -644,12 +646,14 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
     
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSctpVqWRxmHAalH7n0nrnTiKN6nSnrd0BvkplmPzB_-QP7HOg/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link">Volunteer</a>
     <br>
-    {{-- To do paypal email for website  will be sent  --}}
-    <a href="https://www.paypal.com/donate?business=YOUR_PAYPAL_EMAIL&item_name=Donation&currency_code=USD"  target="_blank">
+    
+    <a href="https://www.PayPal.me/TexasTranscoalition"  target="_blank">
     Donate
 </a>
 <br>
-    <a href="tel:+256778499153">Contact</a>
+    <a href="tel:+256778499153">Talk to us</a>
+    <br>
+    <a href="/contact">Through Email</a>
 
   </p>
   

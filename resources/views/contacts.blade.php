@@ -8,8 +8,19 @@
 <link href="https://fonts.googleapis.com/css?family=Roboto:400,100,300,700" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="{{asset('css/style.css')}}">
+<style>
+  .logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+  }
+</style>
 </head>
 <body>
+<div class="logo-container">
+  <img src="{{asset('newlogo.png')}}" alt="Logo">
+</div>
 <section class="ftco-section">
 <div class="container">
 <div class="row justify-content-center">
@@ -24,11 +35,17 @@
 <div class="col-md-7 d-flex align-items-stretch">
 <div class="contact-wrap w-100 p-md-5 p-4">
 <h3 class="mb-4">Get in touch</h3>
-<div id="form-message-warning" class="mb-4"></div>
-<div id="form-message-success" class="mb-4">
-Your message was sent, thank you!
-</div>
-<form method="POST" id="contactForm" name="contactForm">
+@if (session('error'))
+    <div id="form-message-error" class="mb-4">
+        {{ session('error') }}&#x1F922
+    </div>
+@elseif (session('sucess'))
+    <div id="form-message-sucess" class="mb-4" >
+           {{ session('sucess') }}&#x1F389;
+    </div>
+@endif
+<form method="POST" id="contactForm" name="contactForm" action="{{route('contact.send')}}">
+@csrf 
 <div class="row">
 <div class="col-md-6">
 <div class="form-group">
