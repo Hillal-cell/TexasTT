@@ -19,7 +19,7 @@ class ContactController extends Controller
 
         // Send email
          try {
-            Mail::to('sayrunjogi@gmail.com')->send(new ContactFormMail($validatedData));
+            Mail::to('Texastranscoalition@gmail.com')->send(new ContactFormMail($validatedData));
             
             return redirect()->back()->with('sucess', 'Your message has been received thank you.');
 
