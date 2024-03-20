@@ -397,7 +397,7 @@ trans individuals.</p>","image":"{{asset('newlogo.png')}}","@context":"http://sc
     <br><a href="/resources">Resources</a>
 
     {{-- To do link to the social support --}}
-    <br><a href="/meetings">Social Support</a><br>
+    <br><a href="//social support">Social Support</a><br>
     <a href="tel:+1(469) 432-8835" target="_blank">Crisis Hotlines</a></p>
 </div>
 
